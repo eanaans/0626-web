@@ -1,0 +1,14 @@
+
+BODY, TD, SELECT, DIV, FORM {FONT-SIZE: 9pt; COLOR: black; LINE-HEIGHT: 170%; FONT-FAMILY: ±¼¸²,verdana,tahoma;}
+TD {word-break:break-all;width:; height:50}
+TEXTAREA {
+	 FONT-SIZE: 20pt;  COLOR: BLACK; FONT-FAMILY: ±¼¸²,verdana; 
+}
+INPUT {
+	 FONT-SIZE: 14pt;  COLOR: BLACK;  FONT-FAMILY: ±¼¸²,verdana; HEIGHT: 20px;
+}
+ 
+A{text-decoration:none; FONT-SIZE:10pt;  }
+A:link {text-decoration:none;  }
+A:hover{text-decoration:yes;  FONT-SIZE:22pt;}
+A:visited {text-decoration:none;}
